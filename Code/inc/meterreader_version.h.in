@@ -1,0 +1,3 @@
+// the configured options and settings
+#define meterreader_VERSION_MAJOR @spwrestsrv_VERSION_MAJOR@
+#define meterreader_VERSION_MINOR @spwrestsrv_VERSION_MINOR@
